@@ -1,0 +1,10 @@
+{
+  "name": "annda/typo3-docker-boilerplate",
+  "description": "Package by WebDevops with added composer.json",
+  "authors": [
+    {
+      "name": "Anna Dabrowska",
+      "email": "technologa@gmail.com"
+    }
+  ]
+}
